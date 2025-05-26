@@ -1,5 +1,7 @@
 # Semantic Kernel 入門
 
+zenn に書きたいと思っている Semantic Kernel の入門的な記事のコード置き場。
+
 ## 書きたいこと
 
 1. Semantic Kernel とは
