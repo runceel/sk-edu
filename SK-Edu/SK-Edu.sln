@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "001-SKFunction", "001-SKFunction", "{9994E17C-50BA-5231-1B45-E9C5AA489C33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKFunctionLab001", "001-SKFunction\SKFunctionLab\SKFunctionLab001.csproj", "{A1688F5E-16F5-41CF-B3EC-FA09A68B328E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKFunctionLab002", "001-SKFunction\SKFunctionLab002\SKFunctionLab002.csproj", "{41F75BA3-DB78-490A-9259-C9D9E5D35B76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKFunctionLab003", "001-SKFunction\SKFunctionLab003\SKFunctionLab003.csproj", "{7AE2999D-2C5C-4297-979A-88A8CF43569B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKFunctionLab004", "001-SKFunction\SKFunctionLab004\SKFunctionLab004.csproj", "{6E08D449-1566-4CBD-AE3B-A223AEE658B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKFunctionLab005", "001-SKFunction\SKFunctionLab005\SKFunctionLab005.csproj", "{666DA44B-C39E-46EA-9EC3-973CEE614856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1688F5E-16F5-41CF-B3EC-FA09A68B328E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1688F5E-16F5-41CF-B3EC-FA09A68B328E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1688F5E-16F5-41CF-B3EC-FA09A68B328E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1688F5E-16F5-41CF-B3EC-FA09A68B328E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41F75BA3-DB78-490A-9259-C9D9E5D35B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F75BA3-DB78-490A-9259-C9D9E5D35B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41F75BA3-DB78-490A-9259-C9D9E5D35B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41F75BA3-DB78-490A-9259-C9D9E5D35B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AE2999D-2C5C-4297-979A-88A8CF43569B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE2999D-2C5C-4297-979A-88A8CF43569B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE2999D-2C5C-4297-979A-88A8CF43569B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE2999D-2C5C-4297-979A-88A8CF43569B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E08D449-1566-4CBD-AE3B-A223AEE658B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E08D449-1566-4CBD-AE3B-A223AEE658B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E08D449-1566-4CBD-AE3B-A223AEE658B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E08D449-1566-4CBD-AE3B-A223AEE658B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{666DA44B-C39E-46EA-9EC3-973CEE614856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666DA44B-C39E-46EA-9EC3-973CEE614856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666DA44B-C39E-46EA-9EC3-973CEE614856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666DA44B-C39E-46EA-9EC3-973CEE614856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A1688F5E-16F5-41CF-B3EC-FA09A68B328E} = {9994E17C-50BA-5231-1B45-E9C5AA489C33}
+		{41F75BA3-DB78-490A-9259-C9D9E5D35B76} = {9994E17C-50BA-5231-1B45-E9C5AA489C33}
+		{7AE2999D-2C5C-4297-979A-88A8CF43569B} = {9994E17C-50BA-5231-1B45-E9C5AA489C33}
+		{6E08D449-1566-4CBD-AE3B-A223AEE658B7} = {9994E17C-50BA-5231-1B45-E9C5AA489C33}
+		{666DA44B-C39E-46EA-9EC3-973CEE614856} = {9994E17C-50BA-5231-1B45-E9C5AA489C33}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C4F9D6D-4F58-4D95-91CE-D406B36DE9A5}
+	EndGlobalSection
+EndGlobal
