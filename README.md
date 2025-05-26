@@ -9,12 +9,13 @@ zenn に書きたいと思っている Semantic Kernel の入門的な記事の�
 3. SKFunction
 4. Plugin
 5. AI Service
-6. Filter
-7. Prompt Template
-8. DI コンテナとの統合
-9. Microsoft.Extensions.AI
-10. VectorData
-11. Text Search
-12. Single Agent
-13. Multi Agent
-14. Open Telemetry
+6. Streaming
+7. Filter
+8. Prompt Template
+9. DI コンテナとの統合
+10. Microsoft.Extensions.AI
+11. VectorData
+12. Text Search
+13. Single Agent
+14. Multi Agent
+15. Open Telemetry
