@@ -6,10 +6,10 @@ zenn に書きたいと思っている Semantic Kernel の入門的な記事の�
 
 1. [x] Semantic Kernel とは
 2. [ ] Semantic Kernel の Kernel クラス
-3. [ ] SKFunction
+3. [x] SKFunction
 	1. [x] 普通の関数
-	1. [ ] AI を呼び出す関数
-4. [ ] Plugin
+	1. [x] AI を呼び出す関数
+4. [x] Plugin
 5. [ ] AI Service
 6. [ ] Streaming
 7. [ ] Filter
