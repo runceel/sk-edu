@@ -1,6 +1,7 @@
-<Project>
+﻿<Project>
 
   <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
     <UserSecretsId>1f1667b2-78c4-4797-99cb-c0cb56426e09</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
