@@ -1,0 +1,13 @@
+<Project>
+
+  <PropertyGroup>
+    <UserSecretsId>1f1667b2-78c4-4797-99cb-c0cb56426e09</UserSecretsId>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Azure.Identity" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" />
+    <PackageReference Include="Microsoft.SemanticKernel" />
+  </ItemGroup>
+
+</Project>
