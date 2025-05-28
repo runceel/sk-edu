@@ -8,7 +8,9 @@
     <PackageVersion Include="Azure.Identity" Version="1.14.0" />
     <PackageVersion Include="Microsoft.Extensions.Configuration" Version="9.0.5" />
     <PackageVersion Include="Microsoft.Extensions.Configuration.UserSecrets" Version="9.0.5" />
+    <PackageVersion Include="Microsoft.Extensions.Logging.Console" Version="9.0.5" />
     <PackageVersion Include="Microsoft.SemanticKernel" Version="1.54.0" />
     <PackageVersion Include="Microsoft.SemanticKernel.PromptTemplates.Liquid" Version="1.54.0" />
+    <PackageVersion Include="Moq" Version="4.20.72" />
   </ItemGroup>
 </Project>
