@@ -12,7 +12,7 @@ zenn に書きたいと思っている Semantic Kernel の入門的な記事の�
 4. [x] Plugin
 5. [x] AI Service
 6. [x] Streaming
-7. [ ] Filter
+7. [x] Filter
 8. [x] Prompt Template
 	- [x] サニタイズ
 9. [ ] DI コンテナとの統合
@@ -23,4 +23,3 @@ zenn に書きたいと思っている Semantic Kernel の入門的な記事の�
 14. [ ] Multi Agent
 15. [ ] Open Telemetry
 16. [ ] Multi Agent
-17. [ ] Open Telemetry
