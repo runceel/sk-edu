@@ -15,7 +15,7 @@ zenn に書きたいと思っている Semantic Kernel の入門的な記事の�
 7. [x] Filter
 8. [x] Prompt Template
 	- [x] サニタイズ
-9. [ ] DI コンテナとの統合
+9. [x] DI コンテナとの統合
 10. [ ] Microsoft.Extensions.AI
 11. [ ] VectorData
 12. [ ] Text Search

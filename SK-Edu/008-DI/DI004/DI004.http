@@ -1,0 +1,4 @@
+@DI004_HostAddress = https://localhost:7258
+
+GET {{DI004_HostAddress}}/ai?message=‚±‚ñ‚É‚¿‚Í
+Accept: application/json
