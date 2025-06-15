@@ -16,10 +16,11 @@ zenn に書きたいと思っている Semantic Kernel の入門的な記事の�
 8. [x] Prompt Template
 	- [x] サニタイズ
 9. [x] DI コンテナとの統合
-10. [ ] Microsoft.Extensions.AI
+10. [x] Microsoft.Extensions.AI
 11. [ ] VectorData
 12. [ ] Text Search
 13. [ ] Single Agent
 14. [ ] Multi Agent
 15. [ ] Open Telemetry
 16. [ ] Multi Agent
+17. [ ] Process Framework
